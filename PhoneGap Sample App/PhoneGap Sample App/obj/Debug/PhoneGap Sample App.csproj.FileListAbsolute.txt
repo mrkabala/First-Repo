@@ -1,0 +1,18 @@
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\ApplicationIcon.png
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\Background.png
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\PhoneGap Sample App.dll
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\PhoneGap Sample App.pdb
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\AppManifest.xaml
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\App.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\MainPage.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\Plugins\UI\AudioRecorder.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\Plugins\UI\ImageCapture.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\Plugins\UI\NotificationBox.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\Plugins\UI\VideoRecorder.g.cs
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\PhoneGap Sample App.g.resources
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\PhoneGap Sample App.dll
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\PhoneGap Sample App.pdb
+C:\Users\mikek_000\Documents\Visual Studio 2012\Projects\WP8\PhoneGap Sample App\PhoneGap Sample App\obj\Debug\XapCacheFile.xml
